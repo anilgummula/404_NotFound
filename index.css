@@ -5,7 +5,8 @@ body{
     padding: 0;
 }
 .main{
-    background-color: gray;
+    /* background-color: gray; */
+    background-color: #6d818c;
     display: flex;
     flex-direction: column;
     margin: auto;
@@ -23,6 +24,7 @@ body{
 
 
 }
+
 .link{
     text-decoration: none;
     color: darkblue;
